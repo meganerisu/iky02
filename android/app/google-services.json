@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394019530057",
+    "firebase_url": "https://iky02-17a7c.firebaseio.com",
+    "project_id": "iky02-17a7c",
+    "storage_bucket": "iky02-17a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394019530057:android:9fa7555d7507bb6d162698",
+        "android_client_info": {
+          "package_name": "com.tmuarcircle.iky02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394019530057-9en28hug0s8demn8qmu0uafn88gi8nf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByZTDLAKPtGey2H98j_lBKBDoUxeXr1Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394019530057-9en28hug0s8demn8qmu0uafn88gi8nf4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
